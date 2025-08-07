@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dmv_test_1",
+    "name": "DMV Test Set 1",
+    "description": "Official DMV practice test with 25 questions covering traffic rules, signs, and safety",
+    "icon": "📋",
+    "questionCount": 25,
+    "isPremium": false
+  },
+  {
+    "id": "dmv_test_2",
+    "name": "DMV Test Set 2",
+    "description": "Comprehensive driving test with road rules, emergency procedures, and vehicle control",
+    "icon": "🚗",
+    "questionCount": 25,
+    "isPremium": false
+  },
+  {
+    "id": "dmv_test_3",
+    "name": "DMV Test Set 3",
+    "description": "Advanced driving scenarios including highway driving, parking, and complex situations",
+    "icon": "🛣️",
+    "questionCount": 25,
+    "isPremium": false
+  },
+  {
+    "id": "dmv_test_4",
+    "name": "DMV Test Set 4",
+    "description": "Specialized test covering night driving, weather conditions, and defensive driving",
+    "icon": "🌙",
+    "questionCount": 25,
+    "isPremium": true
+  },
+  {
+    "id": "dmv_test_5",
+    "name": "DMV Test Set 5",
+    "description": "Final comprehensive test covering all aspects of safe driving and traffic laws",
+    "icon": "🏆",
+    "questionCount": 25,
+    "isPremium": true
+  },
+  {
+    "id": "traffic_signs",
+    "name": "Traffic Signs",
+    "description": "Learn about various traffic signs and their meanings",
+    "icon": "🚦",
+    "questionCount": 20,
+    "isPremium": false
+  },
+  {
+    "id": "road_rules",
+    "name": "Road Rules",
+    "description": "Understand basic road rules and regulations",
+    "icon": "🚗",
+    "questionCount": 25,
+    "isPremium": false
+  },
+  {
+    "id": "safety",
+    "name": "Safety",
+    "description": "Vehicle safety and emergency procedures",
+    "icon": "🛡️",
+    "questionCount": 15,
+    "isPremium": false
+  },
+  {
+    "id": "parking",
+    "name": "Parking",
+    "description": "Parking rules and regulations",
+    "icon": "🅿️",
+    "questionCount": 12,
+    "isPremium": true
+  },
+  {
+    "id": "emergency",
+    "name": "Emergency Procedures",
+    "description": "What to do in emergency situations",
+    "icon": "🚨",
+    "questionCount": 10,
+    "isPremium": true
+  }
+] 

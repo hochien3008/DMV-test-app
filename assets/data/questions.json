@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "question": "What does a red traffic light mean?",
+    "options": [
+      "Stop completely",
+      "Slow down",
+      "Speed up",
+      "Turn right only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A red traffic light means you must stop completely before the intersection.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 2,
+    "question": "What is the speed limit in a residential area unless otherwise posted?",
+    "options": [
+      "25 mph",
+      "35 mph",
+      "45 mph",
+      "55 mph"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The default speed limit in residential areas is typically 25 mph.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 3,
+    "question": "What should you do when approaching a school bus with flashing red lights?",
+    "options": [
+      "Speed up to pass quickly",
+      "Stop and wait until lights stop flashing",
+      "Honk your horn",
+      "Drive around the bus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You must stop and wait until the red lights stop flashing when approaching a school bus.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 4,
+    "question": "What does a yellow traffic light mean?",
+    "options": [
+      "Speed up to get through",
+      "Stop if it is safe to do so",
+      "Turn right only",
+      "Proceed with caution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A yellow light means stop if it is safe to do so. If you cannot stop safely, proceed with caution.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 5,
+    "question": "What is the proper way to make a right turn at a red light?",
+    "options": [
+      "Turn immediately without stopping",
+      "Stop, then turn if no traffic is coming",
+      "Honk and turn",
+      "Speed up and turn quickly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You must come to a complete stop, then turn right if no traffic is coming from the left.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 6,
+    "question": "What should you do if your car starts to skid?",
+    "options": [
+      "Turn the wheel in the opposite direction",
+      "Turn the wheel in the same direction as the skid",
+      "Brake hard",
+      "Accelerate to regain control"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Turn the wheel in the same direction as the skid to regain control of the vehicle.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 7,
+    "question": "What does a stop sign mean?",
+    "options": [
+      "Slow down and proceed",
+      "Stop completely and proceed when safe",
+      "Yield to other traffic",
+      "Speed up to get through quickly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A stop sign means you must come to a complete stop and proceed only when it is safe to do so.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 8,
+    "question": "What is the minimum following distance in good weather?",
+    "options": [
+      "1 second",
+      "2 seconds",
+      "3 seconds",
+      "4 seconds"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You should maintain at least a 3-second following distance in good weather conditions.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 9,
+    "question": "What does a yield sign mean?",
+    "options": [
+      "Stop completely",
+      "Slow down and give right of way",
+      "Speed up to get through",
+      "Turn right only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A yield sign means you must slow down and give the right of way to other traffic.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 10,
+    "question": "What should you do when you see a pedestrian in a crosswalk?",
+    "options": [
+      "Speed up to get through quickly",
+      "Stop and let them cross",
+      "Honk your horn",
+      "Drive around them"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You must stop and let pedestrians cross when they are in a crosswalk.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 11,
+    "question": "What is the speed limit in a school zone during school hours?",
+    "options": [
+      "15 mph",
+      "20 mph",
+      "25 mph",
+      "30 mph"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The speed limit in school zones during school hours is typically 15 mph.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 12,
+    "question": "What should you do when you see an emergency vehicle with flashing lights?",
+    "options": [
+      "Speed up to get out of the way",
+      "Pull over to the right and stop",
+      "Honk your horn",
+      "Continue driving normally"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You must pull over to the right and stop when you see an emergency vehicle with flashing lights.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 13,
+    "question": "What does a white line on the road mean?",
+    "options": [
+      "You can pass",
+      "You cannot pass",
+      "Speed limit zone",
+      "Parking area"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A solid white line means you cannot pass or change lanes.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 14,
+    "question": "What should you do when approaching a railroad crossing?",
+    "options": [
+      "Speed up to cross quickly",
+      "Slow down and look both ways",
+      "Honk your horn",
+      "Stop only if a train is coming"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You should slow down and look both ways when approaching a railroad crossing.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 15,
+    "question": "What is the maximum speed limit on most highways?",
+    "options": [
+      "45 mph",
+      "55 mph",
+      "65 mph",
+      "75 mph"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The maximum speed limit on most highways is 65 mph, though it varies by state.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 16,
+    "question": "What should you do when your brakes fail?",
+    "options": [
+      "Turn off the engine",
+      "Pump the brakes and downshift",
+      "Use the parking brake immediately",
+      "Steer into oncoming traffic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If your brakes fail, pump the brakes and downshift to slow down gradually.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 17,
+    "question": "What does a green traffic light mean?",
+    "options": [
+      "Stop",
+      "Go if the way is clear",
+      "Turn right only",
+      "Speed up"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A green light means you can go if the way is clear.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 18,
+    "question": "What should you do when you see a flashing yellow light?",
+    "options": [
+      "Stop immediately",
+      "Proceed with caution",
+      "Turn right only",
+      "Speed up"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A flashing yellow light means proceed with caution.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 19,
+    "question": "What is the proper hand signal for a left turn?",
+    "options": [
+      "Left arm straight out",
+      "Left arm up",
+      "Left arm down",
+      "Right arm straight out"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The proper hand signal for a left turn is left arm straight out.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 20,
+    "question": "What should you do when you see a deer on the road?",
+    "options": [
+      "Speed up to scare it away",
+      "Honk your horn continuously",
+      "Slow down and be prepared to stop",
+      "Drive around it quickly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When you see a deer on the road, slow down and be prepared to stop.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 21,
+    "question": "What does a broken yellow line mean?",
+    "options": [
+      "You can pass",
+      "You cannot pass",
+      "Speed limit zone",
+      "Parking area"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A broken yellow line means you can pass if it is safe to do so.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 22,
+    "question": "What should you do when you see a construction zone?",
+    "options": [
+      "Speed up to get through quickly",
+      "Slow down and follow posted signs",
+      "Honk your horn",
+      "Drive in the opposite lane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When you see a construction zone, slow down and follow posted signs.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 23,
+    "question": "What is the minimum age to get a driver's license in most states?",
+    "options": [
+      "14 years old",
+      "16 years old",
+      "18 years old",
+      "21 years old"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The minimum age to get a driver's license in most states is 16 years old.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 24,
+    "question": "What should you do when you see a flashing red light?",
+    "options": [
+      "Stop and proceed when safe",
+      "Slow down and proceed",
+      "Speed up to get through",
+      "Turn right only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A flashing red light means stop and proceed when safe.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  },
+  {
+    "id": 25,
+    "question": "What is the proper way to parallel park?",
+    "options": [
+      "Pull up next to the car in front",
+      "Back up until you're even with the car behind",
+      "Pull forward and straighten out",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The proper way to parallel park involves all of these steps.",
+    "category": "dmv_test_1",
+    "imageUrl": "",
+    "isImageQuestion": false
+  }
+] 
